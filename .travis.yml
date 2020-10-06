@@ -6,4 +6,8 @@ node_js:
 cache:
     directories:
         - "node_modules"
+        
+        
+install:
+  - npm test:e2e
   
